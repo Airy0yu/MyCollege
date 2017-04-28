@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <litepal>
+
+    <dbname value="UserMes"></dbname>
+    <version value="2"></version>
+
+    <list>
+        <mapping class="com.example.bookstorelocaldemo.Users"></mapping>
+        <mapping class="com.example.bookstorelocaldemo.BookDetail"></mapping>
+    </list>
+
+</litepal>
